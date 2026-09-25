@@ -1,5 +1,6 @@
 <p align="center">
   <a href="#product">Product</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#learning-hub">Learning Hub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#impact">Impact</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#platform">Platform</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -34,6 +35,16 @@ Navi Mumbai, India · previously Team Lead @ eClerx
 </p>
 
 ---
+
+## Learning Hub
+
+A unified, browser-based study portal consolidating my Big Data Analytics and cloud revision material into one place.
+
+**10 learning modules:** Python & R · DBT · AI · Linux · Cloud · HPC · MongoDB · Cassandra · Cloud Revision · R
+
+<a href="https://er-ishan-srivastav.github.io/Ishan-Learning-Hub/"><strong>→ Open Ishan Learning Hub</strong></a>
+
+<p><sub>Built from consolidated learning repositories and deployed through GitHub Pages.</sub></p>
 
 ## Impact
 
