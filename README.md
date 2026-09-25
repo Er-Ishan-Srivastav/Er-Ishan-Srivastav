@@ -42,7 +42,7 @@ A unified, browser-based study portal consolidating my Big Data Analytics and cl
 
 **10 learning modules:** Python & R · DBT · AI · Linux · Cloud · HPC · MongoDB · Cassandra · Cloud Revision · R
 
-<a href="https://er-ishan-srivastav.github.io/Ishan-Learning-Hub/"><strong>→ Open Ishan Learning Hub</strong></a>
+<a href="https://er-ishan-srivastav.github.io/Ishan-Learning-Hub/"><strong>→ Visit My Learning Hub</strong></a>
 
 <p><sub>Built from consolidated learning repositories and deployed through GitHub Pages.</sub></p>
 
