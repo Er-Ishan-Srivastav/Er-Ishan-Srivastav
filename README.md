@@ -1,33 +1,36 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:7c3aed&height=190&section=header&text=Ishan%20Srivastav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%E2%80%A2%20Analytics%20%E2%80%A2%20Cloud%20Systems&descAlignY=60&descSize=17" width="100%" alt="Ishan Srivastav — Data Engineering, Analytics, Cloud Systems" />
+</div>
+
 <p align="center">
-  <a href="#featured-build-smartvolt">SmartVolt</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#learning-hub">Learning Hub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#impact">Impact</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#product">Product</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#platform">Platform</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#featured-build-smartvolt">⚡ SmartVolt</a>&nbsp; · &nbsp;
+  <a href="#learning-hub">Learning Hub</a>&nbsp; · &nbsp;
+  <a href="#product">Projects</a>&nbsp; · &nbsp;
+  <a href="#platform">Tech Stack</a>&nbsp; · &nbsp;
+  <a href="#work">Experience</a>&nbsp; · &nbsp;
   <a href="#research">Research</a>
 </p>
 
 <div align="center">
 
-<img src="https://github.com/Er-Ishan-Srivastav.png" width="96" alt="Ishan Srivastav" />
+<img src="https://github.com/Er-Ishan-Srivastav.png" width="100" alt="Ishan Srivastav" />
 
-# Ishan Srivastav
+### Data Engineer · C-DAC Mumbai — PG Certificate, Big Data Analytics
 
-**Data Engineer** · PG Cert. Big Data Analytics @ C-DAC Mumbai
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+reliable+ETL+and+data+pipelines;Turning+raw+data+into+useful+analytics;Deploying+full-stack+data+products+to+the+cloud;Python+%7C+SQL+%7C+Spark+%7C+AWS" alt="Rotating focus: ETL, analytics, cloud deployment, and data tools" />
 
 I build data pipelines, analytics systems, and full-stack data products—from ingestion and validation to deployment and observability.
 
 Navi Mumbai, India · Open to Data Engineer roles
 
 <p>
-  <a href="mailto:ishan70073@gmail.com"><img src="https://img.shields.io/badge/Email-e6edf3?style=flat-square&labelColor=161b22" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ishansri03/"><img src="https://img.shields.io/badge/LinkedIn-e6edf3?style=flat-square&labelColor=161b22" alt="LinkedIn" /></a>
-  <a href="https://github.com/Er-Ishan-Srivastav"><img src="https://img.shields.io/badge/GitHub-e6edf3?style=flat-square&labelColor=161b22" alt="GitHub" /></a>
-  <a href="https://scholar.google.com/citations?user=CDWfYp0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-e6edf3?style=flat-square&labelColor=161b22" alt="Scholar" /></a>
+  <a href="mailto:ishan70073@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ishansri03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Er-Ishan-Srivastav"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://scholar.google.com/citations?user=CDWfYp0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
-<img src="https://img.shields.io/badge/status-open%20to%20Data%20Engineer%20roles-3fb950?style=flat-square&labelColor=0d1117" alt="Open to Data Engineer roles" />
+<img src="https://img.shields.io/badge/Currently%20focused%20on-Data%20Engineering%20%7C%20Cloud%20%7C%20Analytics-0f766e?style=flat-square" alt="Current focus: Data Engineering, Cloud, Analytics" />
 
 </div>
 
@@ -40,10 +43,10 @@ Navi Mumbai, India · Open to Data Engineer roles
 ## Featured Build: SmartVolt
 
 <p>
-  <a href="https://smartvolt-demo.duckdns.org/overview"><img src="https://img.shields.io/badge/Live%20Demo-Open%20SmartVolt-3fb950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open SmartVolt live demo" /></a>
-  <a href="https://smartvolt-demo.duckdns.org/docs"><img src="https://img.shields.io/badge/API-FastAPI%20Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="SmartVolt API docs" /></a>
-  <a href="https://github.com/Er-Ishan-Srivastav/SmartVolt"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartVolt source code" /></a>
+  <a href="https://smartvolt-demo.duckdns.org/overview"><img src="https://img.shields.io/badge/⚡-SmartVolt-3fb950?style=for-the-badge&logoColor=white" alt="SmartVolt live application" /></a>
 </p>
+
+<sub>Live app · <a href="https://smartvolt-demo.duckdns.org/docs">API docs</a> · <a href="https://github.com/Er-Ishan-Srivastav/SmartVolt">source code</a></sub>
 
 **SmartVolt** is a deployed, full-stack simulation of a prepaid electricity meter and shared-room energy management platform. In October 2026, I expanded its load simulation controls, verified backend and frontend builds, tightened the public repository, and refreshed its setup and architecture documentation.
 
@@ -99,6 +102,23 @@ A unified, browser-based study portal consolidating my Big Data Analytics and cl
 <a href="https://er-ishan-srivastav.github.io/Ishan-Learning-Hub/"><strong>→ Visit My Learning Hub</strong></a>
 
 <p><sub>Built from consolidated learning repositories and deployed through GitHub Pages.</sub></p>
+
+## At a glance
+
+<table align="center" width="100%">
+<tr>
+  <th align="center" width="25%">🎯 Focus</th>
+  <th align="center" width="25%">🧱 Build</th>
+  <th align="center" width="25%">☁️ Ship</th>
+  <th align="center" width="25%">🔬 Explore</th>
+</tr>
+<tr>
+  <td align="center" valign="top">ETL · SQL · Spark<br/>Data quality</td>
+  <td align="center" valign="top">APIs · Analytics<br/>Full-stack tools</td>
+  <td align="center" valign="top">AWS · Docker<br/>CI/CD · Linux</td>
+  <td align="center" valign="top">Federated learning<br/>Applied AI</td>
+</tr>
+</table>
 
 ## Impact
 
@@ -202,8 +222,16 @@ Three systems. One job: move data reliably, then prove it.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Er-Ishan-Srivastav&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Ishan-Srivastav&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Er-Ishan-Srivastav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Ishan-Srivastav&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Ishan-Srivastav&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Ishan-Srivastav&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ---
