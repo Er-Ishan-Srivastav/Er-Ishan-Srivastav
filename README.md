@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="#product">Product</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#featured-build-smartvolt">SmartVolt</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#learning-hub">Learning Hub</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#impact">Impact</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#product">Product</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#platform">Platform</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#research">Research</a>
@@ -15,9 +16,9 @@
 
 **Data Engineer** · PG Cert. Big Data Analytics @ C-DAC Mumbai
 
-I design ETL systems, Spark jobs, and cloud data paths that stay up.
+I build data pipelines, analytics systems, and full-stack data products—from ingestion and validation to deployment and observability.
 
-Navi Mumbai, India · previously Team Lead @ eClerx
+Navi Mumbai, India · Open to Data Engineer roles
 
 <p>
   <a href="mailto:ishan70073@gmail.com"><img src="https://img.shields.io/badge/Email-e6edf3?style=flat-square&labelColor=161b22" alt="Email" /></a>
@@ -33,6 +34,59 @@ Navi Mumbai, India · previously Team Lead @ eClerx
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,scala,bash,mysql,postgres,mongodb,redis,aws,azure,linux,git,nodejs,fastapi,flask,docker,terraform&perline=8&theme=dark" alt="Python, Scala, Bash, MySQL, Postgres, MongoDB, Redis, AWS, Azure, Linux, Git, Node.js, FastAPI, Flask, Docker, Terraform" />
 </p>
+
+---
+
+## Featured Build: SmartVolt
+
+<p>
+  <a href="https://smartvolt-demo.duckdns.org/overview"><img src="https://img.shields.io/badge/Live%20Demo-Open%20SmartVolt-3fb950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open SmartVolt live demo" /></a>
+  <a href="https://smartvolt-demo.duckdns.org/docs"><img src="https://img.shields.io/badge/API-FastAPI%20Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="SmartVolt API docs" /></a>
+  <a href="https://github.com/Er-Ishan-Srivastav/SmartVolt"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartVolt source code" /></a>
+</p>
+
+**SmartVolt** is a deployed, full-stack simulation of a prepaid electricity meter and shared-room energy management platform. In October 2026, I expanded its load simulation controls, verified backend and frontend builds, tightened the public repository, and refreshed its setup and architecture documentation.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<h3>Meter & Load Lab</h3>
+<ul>
+  <li>Appliance-level load simulation with quantity controls and reusable daily scenarios.</li>
+  <li>Schedule appliances by start time and runtime; preview estimated daily energy use and cost.</li>
+  <li>Support for historical and current-day scenarios, including schedules that cross midnight.</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<h3>Admin & Resident Workflows</h3>
+<ul>
+  <li>Manage rooms, multiple active tenants, and meter-linked recharges.</li>
+  <li>Support tickets with room-wide visibility by default and an option for private conversations.</li>
+  <li>Consumption analytics and illustrative emissions estimates for the simulated readings.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h3>Engineering</h3>
+<ul>
+  <li>FastAPI, SQLAlchemy, PostgreSQL, and versioned Alembic migrations.</li>
+  <li>React, TypeScript, Vite, and Recharts for the frontend.</li>
+  <li>Docker Compose, AWS EC2, and Caddy-managed HTTPS for deployment.</li>
+</ul>
+</td>
+<td valign="top" width="50%">
+<h3>Verification & Delivery</h3>
+<ul>
+  <li>52 backend tests passed in the release-candidate verification run.</li>
+  <li>Frontend TypeScript checks and production Vite build completed successfully.</li>
+  <li>Cleaned the public repository and rewrote the README with architecture, setup, testing, deployment, and limitations.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<sub>SmartVolt is a simulation and demonstration project; it does not connect to physical meters or process real payments.</sub>
 
 ---
 
@@ -134,7 +188,7 @@ Three systems. One job: move data reliably, then prove it.
 
 <p>
 <strong>C-DAC Mumbai</strong> — PG Cert. Big Data Analytics<br /><sub>Aug 2026 – Mar 2027</sub><br /><br />
-<strong>Chandigarh University</strong> — B.E. CSE (Big Data Analytics) · CGPA 8.21<br /><sub>2022 – 2026</sub>
+<strong>Chandigarh University</strong> — B.E. CSE (Big Data Analytics) · 2022–2026
 </p>
 
 ## Research
@@ -163,3 +217,5 @@ Open to **Data Engineer** roles. Navi Mumbai · hybrid / remote.
 [**ishan70073@gmail.com**](mailto:ishan70073@gmail.com)
 
 <sub>Power BI Data Analyst · OCI Generative AI Professional · OCI Data Management Foundations · AWS Cloud Foundations</sub>
+
+</div>
