@@ -1,22 +1,44 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:2563eb,100:7c3aed&height=190&section=header&text=Ishan%20Srivastav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%E2%80%A2%20Analytics%20%E2%80%A2%20Cloud%20Systems&descAlignY=60&descSize=17" width="100%" alt="Ishan Srivastav — Data Engineering, Analytics, Cloud Systems" />
+</div>
 
-<img src="./assets/hero.svg" width="100%" alt="Ishan Srivastav — abstract data systems banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=FF4757&center=true&vCenter=true&width=760&height=36&lines=%3E+building+reliable+data+workflows;%3E+Python+%2F+SQL+%2F+ETL;%3E+backend+systems+%26+databases;%3E+applied+AI+%E2%80%94+with+engineering+discipline" alt="Animated data engineering, Python, SQL, backend, and applied AI focus" />
-
-<p>
-  <a href="mailto:ishan70073@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-B11313?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ishansri03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1D51?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Er-Ishan-Srivastav"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://er-ishan-srivastav.github.io/ishan-data-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0B1D51?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://scholar.google.com/citations?user=CDWfYp0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-1E3A8A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<p align="center">
+  <a href="#featured-build-smartvolt">⚡ SmartVolt</a>&nbsp; · &nbsp;
+  <a href="#learning-hub">Learning Hub</a>&nbsp; · &nbsp;
+  <a href="#product">Projects</a>&nbsp; · &nbsp;
+  <a href="#platform">Tech Stack</a>&nbsp; · &nbsp;
+  <a href="#work">Experience</a>&nbsp; · &nbsp;
+  <a href="#research">Research</a>
 </p>
 
-<img src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%7C%20Analytics%20%7C%20Cloud-B11313?style=flat-square" alt="Focus: Data Engineering, Analytics, Cloud" />
+<div align="center">
+
+<img src="https://github.com/Er-Ishan-Srivastav.png" width="100" alt="Ishan Srivastav" />
+
+### Data Engineer · C-DAC Mumbai — PG Certificate, Big Data Analytics
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=3B82F6&center=true&vCenter=true&width=720&lines=Building+reliable+ETL+and+data+pipelines;Turning+raw+data+into+useful+analytics;Deploying+full-stack+data+products+to+the+cloud;Python+%7C+SQL+%7C+Spark+%7C+AWS" alt="Rotating focus: ETL, analytics, cloud deployment, and data tools" />
+
+I build data pipelines, analytics systems, and full-stack data products—from ingestion and validation to deployment and observability.
+
+Navi Mumbai, India · Open to Data Engineer roles
+
+<p>
+  <a href="mailto:ishan70073@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ishansri03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Er-Ishan-Srivastav"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://scholar.google.com/citations?user=CDWfYp0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+</p>
+
+<img src="https://img.shields.io/badge/Currently%20focused%20on-Data%20Engineering%20%7C%20Cloud%20%7C%20Analytics-0f766e?style=flat-square" alt="Current focus: Data Engineering, Cloud, Analytics" />
 
 </div>
 
-<img src="./assets/web-divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,scala,bash,mysql,postgres,mongodb,redis,aws,azure,linux,git,nodejs,fastapi,flask,docker,terraform&perline=8&theme=dark" alt="Python, Scala, Bash, MySQL, Postgres, MongoDB, Redis, AWS, Azure, Linux, Git, Node.js, FastAPI, Flask, Docker, Terraform" />
+</p>
+
+---
 
 ## Featured Build: SmartVolt
 
@@ -69,8 +91,7 @@
 
 <sub>SmartVolt is a simulation and demonstration project; it does not connect to physical meters or process real payments.</sub>
 
-
-<img src="./assets/web-divider.svg" width="100%" alt="" />
+---
 
 ## Learning Hub
 
@@ -81,8 +102,6 @@ A unified, browser-based study portal consolidating my Big Data Analytics and cl
 <a href="https://er-ishan-srivastav.github.io/Ishan-Learning-Hub/"><strong>→ Visit My Learning Hub</strong></a>
 
 <p><sub>Built from consolidated learning repositories and deployed through GitHub Pages.</sub></p>
-
-<img src="./assets/web-divider.svg" width="100%" alt="" />
 
 ## At a glance
 
@@ -101,8 +120,6 @@ A unified, browser-based study portal consolidating my Big Data Analytics and cl
 </tr>
 </table>
 
-<img src="./assets/web-divider.svg" width="100%" alt="" />
-
 ## Impact
 
 <table>
@@ -113,8 +130,6 @@ A unified, browser-based study portal consolidating my Big Data Analytics and cl
   <td align="center" width="25%"><h3>14</h3><sub>analysts led</sub></td>
 </tr>
 </table>
-
-<img src="./assets/web-divider.svg" width="100%" alt="" />
 
 ## Product
 
@@ -149,8 +164,6 @@ Three systems. One job: move data reliably, then prove it.
 </tr>
 </table>
 
-<img src="./assets/web-divider.svg" width="100%" alt="" />
-
 ## Platform
 
 <table>
@@ -176,8 +189,6 @@ Three systems. One job: move data reliably, then prove it.
 </tr>
 </table>
 
-<img src="./assets/web-divider.svg" width="100%" alt="" />
-
 ## Work
 
 <table>
@@ -200,8 +211,6 @@ Three systems. One job: move data reliably, then prove it.
 <strong>Chandigarh University</strong> — B.E. CSE (Big Data Analytics) · 2022–2026
 </p>
 
-<img src="./assets/web-divider.svg" width="100%" alt="" />
-
 ## Research
 
 - **A Decentralized Multi-Agent Federated Learning Framework for Adaptive System Control**<br />
@@ -209,8 +218,6 @@ Three systems. One job: move data reliably, then prove it.
 
 - **BrillX: An Architecture for Dynamic Learning Paths**<br />
   I. Srivastav, P. Kumar Singh, A. Jaswal · *IJIRT, Vol. 12, Issue 6 · Nov 2025*
-
-<img src="./assets/web-divider.svg" width="100%" alt="" />
 
 ## Activity
 
@@ -225,7 +232,6 @@ Three systems. One job: move data reliably, then prove it.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Ishan-Srivastav&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-  <img src="https://raw.githubusercontent.com/Er-Ishan-Srivastav/Er-Ishan-Srivastav/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -239,13 +245,5 @@ Open to **Data Engineer** roles. Navi Mumbai · hybrid / remote.
 [**ishan70073@gmail.com**](mailto:ishan70073@gmail.com)
 
 <sub>Power BI Data Analyst · OCI Generative AI Professional · OCI Data Management Foundations · AWS Cloud Foundations</sub>
-
-</div>
-
-<img src="./assets/web-divider.svg" width="100%" alt="" />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D51,50:B11313,100:0B1D51&height=115&section=footer&text=Build%20clearly.%20Ship%20reliably.&fontSize=18&fontColor=FFFFFF&fontAlignY=72" width="100%" alt="Build clearly. Ship reliably." />
 
 </div>
